@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#3E3E3E" d="M44,50H6c-3.314,0-6-3.686-6-7V7h49v37C49,47.314,47.314,50,44,50z"/>
+<rect x="19" y="7" fill="#FFFFFF" width="11" height="39"/>
+<rect x="19" y="7" fill="#59B4D9" width="11" height="39"/>
+<rect x="34" y="7" fill="#804998" width="11" height="39"/>
+<rect x="4" y="7" fill="#59B4D9" width="11" height="39"/>
+<rect x="0.5" y="25.5" transform="matrix(4.845997e-11 -1 1 4.845997e-11 -6.5 46.5)" opacity="0.4" fill="#FFFFFF" enable-background="new    " width="39" height="2"/>
+<rect x="-14.5" y="25.5" transform="matrix(4.845997e-11 -1 1 4.845997e-11 -21.5 31.5)" opacity="0.4" fill="#FFFFFF" enable-background="new    " width="39" height="2"/>
+<rect x="15.5" y="25.5" transform="matrix(4.845997e-11 -1 1 4.845997e-11 8.5 61.5)" opacity="0.3" fill="#FFFFFF" enable-background="new    " width="39" height="2"/>
+<path opacity="0.15" fill="#FFFFFF" enable-background="new    " d="M4.934,49.9H8L40,7H0v36C0,45.949,2.13,49.396,4.934,49.9z"/>
+</svg>

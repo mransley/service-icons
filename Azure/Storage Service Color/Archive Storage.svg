@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#3E3E3E" d="M44,50H6c-3.314,0-6-2.686-6-6V4h50v40C50,47.314,47.314,50,44,50z"/>
+<rect x="4" y="19" fill="#FFFFFF" width="42" height="12"/>
+<rect x="4" y="19" opacity="0.85" fill="#804998" width="42" height="12"/>
+<rect x="4" y="34" fill="#FFFFFF" enable-background="new    " width="42" height="12"/>
+<rect x="4" y="34" opacity="0.5" fill="#59B4D9" width="42" height="12"/>
+<rect x="4" y="4" fill="#59B4D9" width="42" height="12"/>
+<rect x="4" y="19" opacity="0.25" fill="#FFFFFF" enable-background="new    " width="42" height="2"/>
+<rect x="4" y="4" opacity="0.2" fill="#FFFFFF" enable-background="new    " width="42" height="2"/>
+<rect x="4" y="34" opacity="0.4" fill="#FFFFFF" enable-background="new    " width="42" height="2"/>
+<path opacity="0.15" fill="#FFFFFF" enable-background="new    " d="M6,50h2.696L40.081,4H0v40C0,47.314,2.686,50,6,50z"/>
+<path fill="#59B4D9" d="M12.909,24.8L12.909,24.8c0.456,0,0.839-0.342,0.892-0.795l2.193-21.005C16.055,2.468,15.639,2,15.102,2
+	h-4.386C10.18,2,9.763,2.468,9.825,3.001l2.193,21.005C12.07,24.458,12.453,24.8,12.909,24.8z"/>
+<polygon opacity="0.6" fill="#FFFFFF" points="12.823,24 10.607,2.8 15.212,2.8 12.996,24 "/>
+<polygon opacity="0.6" fill="#FFFFFF" points="12.823,24 10.607,2.8 12.909,2.8 12.996,24 "/>
+<path fill="#59B4D9" d="M39,29L39,29c0.57,0,1.049-0.427,1.115-0.993l2.741-24.756C42.933,2.584,42.412,2,41.741,2h-5.482
+	c-0.671,0-1.191,0.584-1.115,1.251l2.741,24.756C37.951,28.573,38.43,29,39,29z"/>
+<polygon opacity="0.6" fill="#FFFFFF" points="38.892,28 36.122,3 41.878,3 39.108,28 "/>
+<path fill="#59B4D9" d="M32.636,24.8L32.636,24.8c0.456,0,0.839-0.342,0.892-0.795L35.72,3.001C35.782,2.468,35.365,2,34.829,2
+	h-4.386c-0.537,0-0.953,0.468-0.892,1.001l2.193,21.005C31.796,24.458,32.18,24.8,32.636,24.8z"/>
+<path opacity="0.6" fill="#FFFFFF" d="M30.557,3h4.159l-2.08,19.915L30.557,3z"/>
+<path opacity="0.6" fill="#FFFFFF" d="M30.557,3h2.079l0,19.915L30.557,3z"/>
+<polygon opacity="0.6" fill="#FFFFFF" points="38.892,28 36.122,3 39,3 39.108,28 "/>
+</svg>
