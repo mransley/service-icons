@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/48/Arch_AWS-Supply-Chain_48</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#BD0816" offset="0%"></stop>
+            <stop stop-color="#FF5252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/48/Arch_AWS-Supply-Chain_48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/48/Business-Applications" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="64" height="64"></rect>
+        </g>
+        <g id="Icon-Service/48/AWS-Supply-Chain_48" transform="translate(13.000000, 10.000000)" fill="#FFFFFF">
+            <path d="M33,19 L33,30 C33,30.351 32.815,30.677 32.515,30.857 L23,36.566 L23,34.234 L31,29.434 L31,20.766 L23,25.566 L23,23.234 L31.485,18.143 C31.795,17.956 32.179,17.952 32.493,18.13 C32.807,18.307 33,18.64 33,19 L33,19 Z M7,29.434 L15,34.234 L15,36.566 L5.485,30.857 C5.185,30.677 5,30.351 5,30 L5,19 C5,18.64 5.193,18.307 5.507,18.13 C5.82,17.952 6.205,17.956 6.515,18.143 L15,23.234 L15,25.566 L7,20.766 L7,29.434 Z M27,28.699 L19.485,32.874 C19.335,32.958 19.167,33 19,33 C18.833,33 18.665,32.958 18.515,32.874 L11,28.699 L11,26.412 L19,30.856 L27,26.412 L27,28.699 Z M19.999,41.218 L19.999,37 L17.999,37 L17.999,41.216 L2,31.439 L2,12.699 L18,21.588 L18,25 L20,25 L20,21.588 L36,12.699 L36,31.439 L19.999,41.218 Z M19,2.144 L34.941,11 L19,19.856 L3.059,11 L19,2.144 Z M37.485,10.126 L19.485,0.126 C19.185,-0.042 18.815,-0.042 18.515,0.126 L0.515,10.126 C0.197,10.302 0,10.637 0,11 L0,32 C0,32.348 0.182,32.671 0.479,32.854 L18.479,43.854 C18.639,43.951 18.819,44 19,44 C19.181,44 19.361,43.951 19.521,43.854 L37.521,32.854 C37.818,32.671 38,32.348 38,32 L38,11 C38,10.637 37.803,10.302 37.485,10.126 L37.485,10.126 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

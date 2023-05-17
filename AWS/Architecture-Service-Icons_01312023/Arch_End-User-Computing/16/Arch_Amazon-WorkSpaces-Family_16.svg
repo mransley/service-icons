@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/16/Arch_Amazon-WorkSpaces-Family_16</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#055F4E" offset="0%"></stop>
+            <stop stop-color="#56C0A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/16/Arch_Amazon-WorkSpaces-Family_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/16/End-User-Computing" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="Icon-Service/16/Amazon-WorkSpaces-Family_16" transform="translate(4.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M1,6 L0,6 L0,0.5 C0,0.224 0.224,0 0.5,0 L6,0 L6,1 L1,1 L1,6 Z M15,1 L10,1 L10,0 L15.5,0 C15.776,0 16,0.224 16,0.5 L16,6 L15,6 L15,1 Z M16,15.499 C16,15.631 15.948,15.759 15.855,15.853 C15.76,15.947 15.634,16 15.501,16 L10,16 L10,15 L14.999,15 L15,10 L16,10 L16,15.499 Z M1,15 L6,15 L6,16 L0.5,16 C0.224,16 0,15.776 0,15.5 L0,10 L1,10 L1,15 Z M8.464,12.69 L8.464,8.342 L12,6.17 L12,10.531 L8.464,12.69 Z M4,6.15 L7.464,8.277 L7.464,12.646 L4,10.531 L4,6.15 Z M8,3.154 L11.51,5.297 L8.017,7.443 L4.511,5.29 L8,3.154 Z M13,10.812 L13,5.316 C13,5.142 12.909,4.98 12.761,4.89 L8.261,2.142 C8.1,2.043 7.898,2.044 7.739,2.142 L3.275,4.875 C3.148,4.939 3.05,5.057 3.013,5.203 C2.999,5.258 2.995,5.314 3,5.369 L3,10.812 C3,10.986 3.091,11.148 3.239,11.239 L7.739,13.986 C7.819,14.035 7.91,14.06 8,14.06 C8.09,14.06 8.181,14.035 8.261,13.986 L12.761,11.239 C12.909,11.148 13,10.986 13,10.812 L13,10.812 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

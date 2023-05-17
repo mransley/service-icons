@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/16/Arch_Amazon-VPC-Lattice_16</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4D27A8" offset="0%"></stop>
+            <stop stop-color="#A166FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/16/Arch_Amazon-VPC-Lattice_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/16/Networking-Content-Delivery" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="Icon-Service/16/Amazon-VPC-Lattice_16" transform="translate(4.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M8.536,12.197 L8.536,3.727 L11,4.555 L11,9.64 C11,10.15 10.549,11.93 8.536,12.197 L8.536,12.197 Z M5,9.64 L5,4.557 L7.536,3.722 L7.536,12.197 C5.484,11.93 5,10.12 5,9.64 L5,9.64 Z M1,2 L2,2 L2,1 L1,1 L1,2 Z M14,2 L15,2 L15,1 L14,1 L14,2 Z M14,15 L15,15 L15,14 L14,14 L14,15 Z M1,15 L2,15 L2,14 L1,14 L1,15 Z M12,4.707 L13.707,3 L15.5,3 C15.776,3 16,2.777 16,2.5 L16,0.5 C16,0.224 15.776,0 15.5,0 L13.5,0 C13.223,0 13,0.224 13,0.5 L13,2.293 L11.594,3.699 L8.195,2.557 C8.093,2.523 7.982,2.522 7.88,2.556 L4.406,3.7 L3,2.293 L3,0.5 C3,0.224 2.776,0 2.5,0 L0.5,0 C0.223,0 0,0.224 0,0.5 L0,2.5 C0,2.777 0.223,3 0.5,3 L2.293,3 L4,4.707 L4,9.64 C4,9.991 4.098,10.473 4.324,10.969 L2.293,13 L0.5,13 C0.223,13 0,13.224 0,13.5 L0,15.5 C0,15.777 0.223,16 0.5,16 L2.5,16 C2.776,16 3,15.777 3,15.5 L3,13.707 L4.865,11.842 C5.495,12.616 6.508,13.251 8.036,13.251 C9.548,13.251 10.542,12.63 11.158,11.865 L13,13.707 L13,15.5 C13,15.777 13.223,16 13.5,16 L15.5,16 C15.776,16 16,15.777 16,15.5 L16,13.5 C16,13.224 15.776,13 15.5,13 L13.707,13 L11.69,10.983 C11.907,10.488 12,10.004 12,9.64 L12,4.707 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/32/Arch_Amazon-WorkSpaces-Family_32</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#055F4E" offset="0%"></stop>
+            <stop stop-color="#56C0A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/32/Arch_Amazon-WorkSpaces-Family_32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/32/End-User-Computing" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+        </g>
+        <g id="Icon-Service/32/Amazon-WorkSpaces-Family_32" transform="translate(6.000000, 6.000000)" fill="#FFFFFF">
+            <path d="M13.5,27.976 L14.5,27.976 L14.5,25.031 L13.5,25.031 L13.5,27.976 Z M14.489,3 L13.501,2.996 L13.512,0 L14.501,0.004 L14.489,3 Z M24.016,14.469 L28,14.469 L28,13.469 L24.016,13.469 L24.016,14.469 Z M0,14.469 L4.031,14.469 L4.031,13.469 L0,13.469 L0,14.469 Z M1,11 L0,11 L0,0.5 C0,0.224 0.224,0 0.5,0 L11,0 L11,1 L1,1 L1,11 Z M28,0.5 L28,11 L27,11 L27,1 L17,1 L17,0 L27.5,0 C27.776,0 28,0.224 28,0.5 L28,0.5 Z M27,17 L28,17 L28,27.5 C28,27.776 27.776,28 27.5,28 L17,28 L17,27 L27,27 L27,17 Z M1,27 L11,27 L11,28 L0.5,28 C0.224,28 0,27.776 0,27.5 L0,17 L1,17 L1,27 Z M14.516,22.156 L14.516,14.25 L21,10.325 L21,18.229 L14.516,22.156 Z M7,10.306 L13.516,14.25 L13.516,22.175 L7,18.229 L7,10.306 Z M14,5.47 L20.544,9.432 L14.016,13.384 L7.48,9.428 L14,5.47 Z M13.74,4.458 L6.287,8.982 C6.159,9.043 6.057,9.159 6.016,9.303 C5.99613702,9.369 5.992,9.437 6,9.503 L6,18.511 C6,18.686 6.092,18.848 6.241,18.938 L13.741,23.48 C13.82,23.529 13.91,23.553 14,23.553 C14.09,23.553 14.18,23.529 14.259,23.48 L21.759,18.938 C21.908,18.848 22,18.686 22,18.511 L22,9.427 C22,9.252 21.908,9.09 21.759,8.999 L14.259,4.457 C14.101,4.36 13.9,4.361 13.74,4.458 L13.74,4.458 Z" id="Fill-5"></path>
+        </g>
+    </g>
+</svg>

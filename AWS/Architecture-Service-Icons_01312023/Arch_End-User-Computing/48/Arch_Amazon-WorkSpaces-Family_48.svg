@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/48/Arch_Amazon-WorkSpaces-Family_48</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#055F4E" offset="0%"></stop>
+            <stop stop-color="#56C0A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/48/Arch_Amazon-WorkSpaces-Family_48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/48/End-User-Computing" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="64" height="64"></rect>
+        </g>
+        <g id="Icon-Service/48/Amazon-WorkSpaces-Family_48" transform="translate(10.000000, 10.000000)" fill="#FFFFFF">
+            <path d="M21,44 L23,44 L23,39 L21,39 L21,44 Z M21,5 L23,5 L23,0 L21,0 L21,5 Z M38,23 L44,23 L44,21 L38,21 L38,23 Z M0,23 L6,23 L6,21 L0,21 L0,23 Z M2,19 L0,19 L0,1 C0,0.448 0.448,0 1,0 L19,0 L19,2 L2,2 L2,19 Z M44,1 L44,19 L42,19 L42,2 L25,2 L25,0 L43,0 C43.552,0 44,0.448 44,1 L44,1 Z M42,25 L44,25 L44,43 C44,43.552 43.553,44 43,44 L25.083,44 L25.083,42 L42,42 L42,25 Z M2,42 L18.917,42 L18.917,44 L1,44 C0.447,44 0,43.552 0,43 L0,25 L2,25 L2,42 Z M23,34.262 L23,22.574 L33,16.741 L33,28.427 L23,34.262 Z M11,16.741 L21,22.574 L21,34.262 L11,28.427 L11,16.741 Z M22.001,9.155 L32.017,14.999 L22,20.842 L11.996,15.007 L22.001,9.155 Z M21.495,7.133 L9.578,14.103 C9.32,14.225 9.115,14.454 9.032,14.744 C8.996,14.871 8.986,15.001 9,15.127 L9,29.002 C9,29.357 9.189,29.686 9.496,29.865 L21.496,36.867 C21.651,36.958 21.826,37.003 22,37.003 C22.174,37.003 22.349,36.958 22.504,36.867 L34.504,29.865 C34.811,29.686 35,29.357 35,29.002 L35,14.998 C35,14.643 34.811,14.314 34.504,14.135 L22.504,7.133 C22.192,6.95 21.807,6.951 21.495,7.133 L21.495,7.133 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>

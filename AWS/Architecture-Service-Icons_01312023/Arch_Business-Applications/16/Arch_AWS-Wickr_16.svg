@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/16/Arch_AWS-Wickr_16</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#BD0816" offset="0%"></stop>
+            <stop stop-color="#FF5252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/16/Arch_AWS-Wickr_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/16/Business-Applications" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="Icon-Service/16/AWS-Wickr_16" transform="translate(4.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M5.98,4 L10.019,4 L10.019,2.32 C10.019,1.592 9.325,1 8.472,1 L7.527,1 C6.674,1 5.98,1.592 5.98,2.32 L5.98,4 Z M11,5 L10.019,5 L5.98,5 L5,5 L4,5 L4,11 L12,11 L12,5 L11,5 Z M5,4 L5,2.32 C5,1.041 6.123,0 7.527,0 L8.472,0 C9.876,0 11,1.041 11,2.32 L11,4 L12.5,4 C12.776,4 13,4.224 13,4.5 L13,11.5 C13,11.776 12.776,12 12.5,12 L3.5,12 C3.223,12 3,11.776 3,11.5 L3,4.5 C3,4.224 3.223,4 3.5,4 L5,4 Z M14.379,2 L12,2 L12,3 L14.379,3 C14.721,3 15,3.278 15,3.62 L15,12.38 C15,12.722 14.721,13 14.379,13 L7.5,13 C7.223,13 7,13.224 7,13.5 L7,14.566 L4.777,13.084 C4.695,13.029 4.598,13 4.5,13 L1.62,13 C1.278,13 1,12.722 1,12.38 L1,3.62 C1,3.278 1.278,3 1.62,3 L4,3 L4,2 L1.62,2 C0.726,2 0,2.727 0,3.62 L0,12.38 C0,13.273 0.726,14 1.62,14 L4.348,14 L7.222,15.916 C7.306,15.972 7.403,16 7.5,16 C7.581,16 7.662,15.98 7.736,15.941 C7.898,15.854 8,15.685 8,15.5 L8,14 L14.379,14 C15.273,14 16,13.273 16,12.38 L16,3.62 C16,2.727 15.273,2 14.379,2 L14.379,2 Z M9.146,6.146 L9.853,6.854 L6.853,9.854 L6.146,9.146 L9.146,6.146 Z" id="Fill-3"></path>
+        </g>
+    </g>
+</svg>

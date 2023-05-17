@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Architecture/16/Arch_Amazon-Verified-Permissions_16</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#BD0816" offset="0%"></stop>
+            <stop stop-color="#FF5252" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icon-Architecture/16/Arch_Amazon-Verified-Permissions_16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Architecture-BG/16/Security-Identity-Compliance" fill="url(#linearGradient-1)">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <g id="Icon-Service/16/Amazon-Verified-Permissions_16" transform="translate(5.000000, 4.000000)" fill="#FFFFFF">
+            <path d="M14,10 L14,9 L10,9 L10,7 L9,7 L9,15 L10,15 L10,13 L14,13 L14,12 L10,12 L10,10 L14,10 Z M6.232,3.076 L4.292,5.017 L3.499,4.223 L2.792,4.93 L3.938,6.077 C4.032,6.171 4.159,6.224 4.292,6.224 C4.425,6.224 4.552,6.171 4.646,6.077 L6.939,3.783 L6.232,3.076 Z M5.659,9.456 L4.722,10.393 L3.785,9.456 L3.078,10.163 L4.015,11.1 L3.078,12.037 L3.785,12.744 L4.722,11.807 L5.659,12.744 L6.366,12.037 L5.429,11.1 L6.366,10.163 L5.659,9.456 Z M1,15 L8,15 L8,16 L0.5,16 C0.224,16 0,15.776 0,15.5 L0,0.5 C0,0.224 0.224,0 0.5,0 L11.5,0 C11.776,0 12,0.224 12,0.5 L12,6 L11,6 L11,1 L1,1 L1,15 Z" id="Fill-7"></path>
+        </g>
+    </g>
+</svg>
