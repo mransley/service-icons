@@ -8,4 +8,4 @@ The files remain owned by their owners and are duplicated here solely for each o
 
 If you have another icon set that you think would be useful or the icons become out of date raise a PR and I will merge it.
 
-Create for the file type icons goes to https://github.com/redbooth/free-file-icons.
+Credit for the file type icons goes to https://github.com/redbooth/free-file-icons.
